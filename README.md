@@ -33,7 +33,7 @@ _______
 
 <h3>Segunda Parte</h3>
 
-Aprofundamento no uso do Node.js no projeto.
+Aprofundamento no uso do Node.js no projeto, incluindo uso do Vite e Axios.
 
 _______
 
